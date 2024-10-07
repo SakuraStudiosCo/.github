@@ -1,6 +1,6 @@
 ---
 
-## 🌸 Welcome to **SakuraDevMC**! 🌸
+## 🌸 Welcome to **Sakura Studios**! 🌸
 
 We are a team of passionate developers, blooming with creativity, dedicated to crafting high-quality Minecraft plugins, tools, and resources for the community. Our mission is to enhance your Minecraft experience by providing innovative, user-friendly, and aesthetically delightful solutions that blossom in every server!
 
